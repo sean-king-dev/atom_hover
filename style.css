@@ -1,0 +1,15 @@
+        body {
+            margin: 0;
+            background: none;
+        }
+
+        svg {
+            display: block;
+            width: 100vw;
+            height: 100vh;
+        }
+
+        circle.cls-1 {
+            transition: transform 0.2s ease;
+            cursor: pointer;
+        }
